@@ -1,3 +1,9 @@
-<img src="https://almanac.baii.icu/api/almanac/picture" />
+<h2 align="center">Welcome ~</h2>
 
-<img style="height: 165px;" align="center" src="https://github-readme-stats.vercel.app/api?username=FuBaooo&show_icons=true" />
+<img align="right" src="https://almanac.baii.icu/api/almanac/picture" />
+
+#### About Me
+- 🔧 A front-end software engineer
+- 🎉 Like something interesting
+- ✨ Like new things
+- 🏵️ Struggle in life
