@@ -7,4 +7,5 @@
 - 🔧 A front-end software engineer
 - 🎉 Like something interesting
 - ✨ Like new things
+- 🥘 Like food, but don't like cooking
 - 🎢 Struggle in life
