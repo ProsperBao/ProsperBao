@@ -3,11 +3,11 @@
 <img align="right" src="https://almanac.baii.icu/api/almanac/picture" />
 
 ### About Me
-😈 Full stack overflow garbage generator 😈
-- 🔧 Full time front-end software engineer
-- 🎉 Like some interesting things and new things
-- 🥘 Like food, but don't like cooking
-- 🎢 Struggle in life
+😈 Full Stack Overflow junk generator 😈
+- 🔧 Full-time front-end software engineer
+- 🎉 Likes interesting things and new things
+- 🥘 Likes to eat, but doesn't like to cook
+- 🎢 Struggling in life
 
 ### 关于我
 😈 全栈溢出垃圾生成者 😈
