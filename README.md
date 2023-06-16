@@ -1,6 +1,6 @@
 <h2 align="center">Welcome ~</h2>
 
-<img align="right" src="https://almanac.baii.icu/api/almanac/picture?lang=en" />
+<img align="right" src="https://almanac.baii.icu/api/almanac/picture?lang=en&width=460" />
 
 ### About Me
 😈 Full Stack Overflow junk generator 😈
